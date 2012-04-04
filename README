@@ -1,0 +1,9 @@
+About
+=====
+
+Module for installing python virtualenv and/or virtualenvwrapper  
+
+Caveats
+=======
+
+Tested on Debian 6 to serve my own purposes at the moment.
